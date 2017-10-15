@@ -1,6 +1,7 @@
 # Heroku Static Provider
 
 Static site provider for Heroku.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
 
 ## Installation
